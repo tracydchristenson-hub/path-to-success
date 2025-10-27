@@ -67,12 +67,23 @@ section#choose {
 
 table {
     background-color: #ffffff;
+    text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #E9BB57;
 }
 
 table thead {
     background-color: #E9BB57;
     font-weight: bold;
     color: #000000;
+}
+
+table th,
+table td {
+    border: 1px solid #E9BB57;
+    padding: 10px;
 }
 
 section#step {
