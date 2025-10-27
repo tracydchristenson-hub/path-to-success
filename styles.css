@@ -1,22 +1,86 @@
 body {
     font-family: Inter;
+    color: #000000;
+}
+
+header {
+    background-color: #484FB7;
+    color: #ffffff;
+    text-align: center;
 }
 
 h1 {
     font-family: Kavoon;
     font-size: 3em;
+    color: #ffffff;
 }
 
 h2 {
     font-family: Kavoon;
     font-size: 2em;
+    color: #ffffff;
 }
 
-nave h2,
+nav {
+    background-color: #E9BB57;
+}
+
+nav h2 {
+    font-size: 1.5em;
+    color: #000000;
+}
+
+nav ul li {
+    background-color: #ffffff;
+    color: #484FB7;
+    list-style-type: none;
+}
+
+section#services {
+    background-color: #484FB7;
+}
+
+section#services div {
+    background-color: #ffffff;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section#prices {
+    background-color: #484FB7;
+}
+
 h3 {
     font-size: 1.5em;
+    color: #E9BB57;
 }
 
 h4 {
     font-size: 1.15em;
+    color: #484FB7;
+}
+
+section#choose {
+    background-color: #D9526F;
+}
+
+table {
+    background-color: #ffffff;
+}
+
+table thead {
+    background-color: #E9BB57;
+    font-weight: bold;
+    color: #000000;
+}
+
+section#step {
+    background-color: #D9526F;
+    color: #ffffff;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #484FB7;
 }
