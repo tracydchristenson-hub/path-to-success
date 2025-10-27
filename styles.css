@@ -7,6 +7,8 @@ header {
     background-color: #484FB7;
     color: #ffffff;
     text-align: center;
+    padding: 20px;
+    margin: 0px;
 }
 
 h1 {
@@ -23,6 +25,8 @@ h2 {
 
 nav {
     background-color: #E9BB57;
+    padding: 20px;
+    margin: 0px;
 }
 
 nav h2 {
@@ -34,10 +38,14 @@ nav ul li {
     background-color: #ffffff;
     color: #484FB7;
     list-style-type: none;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 section#services {
     background-color: #484FB7;
+    padding: 20px;
 }
 
 section#services div {
@@ -45,10 +53,15 @@ section#services div {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 section#prices {
     background-color: #484FB7;
+    padding: 20px;
+    margin: 0;
 }
 
 h3 {
@@ -63,6 +76,8 @@ h4 {
 
 section#choose {
     background-color: #D9526F;
+    margin: 0;
+    padding: 20px;
 }
 
 table {
@@ -89,11 +104,15 @@ table td {
 section#step {
     background-color: #D9526F;
     color: #ffffff;
+    padding: 20px;
+    margin: 0;
 }
 
 footer {
     color: #ffffff;
     background-color: #484FB7;
+    padding: 20px;
+    margin: 0;
 }
 
 footer a {
