@@ -144,7 +144,7 @@ section#step {
     margin: 0;
 }
 
-div#button {
+a#button {
     background-color: #ffffff;
     text-align: center;
     width: 75%;
@@ -152,6 +152,8 @@ div#button {
     margin-right: auto;
     border-radius: 20px;
     box-shadow: 5px 5px 0px #000000;
+    color: #000000;
+    text-decoration: none;
 }
 
 footer {
