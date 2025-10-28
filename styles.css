@@ -1,6 +1,7 @@
 body {
     font-family: Inter;
     color: #000000;
+    background-color: #6B8FE7;
 }
 
 header {
@@ -32,6 +33,7 @@ nav {
 nav h2 {
     font-size: 1.5em;
     color: #000000;
+    text-align: center;
 }
 
 nav ul li {
@@ -87,6 +89,30 @@ section#choose {
     background-color: #D9526F;
     margin: 0;
     padding: 20px;
+}
+
+section#choose ul li {
+    width: 40%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    list-style-type: none;
+}
+
+section#choose ul li#teal {
+    background-color: #4CA7C0;
+}
+
+section#choose ul li#violet {
+    background-color: #6B8FE7;
+}
+
+section#choose ul li#yellow {
+    background-color: #E9BB57;
+}
+
+section#choose ul li#white {
+    background-color: #ffffff;
 }
 
 table {
