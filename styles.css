@@ -97,6 +97,9 @@ section#choose ul li {
     padding: 20px;
     border-radius: 20px;
     list-style-type: none;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
 }
 
 section#choose ul li#teal {
@@ -165,4 +168,5 @@ footer {
 
 footer a {
     color: #ffffff;
+    display: inline;
 }
