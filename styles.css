@@ -437,6 +437,12 @@ section#choose ul li {
     font-size: 1.15em;
     text-align: center;
     display: inline-block;
+    width: 50%;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 section#choose ul li#teal {
@@ -504,6 +510,15 @@ footer {
     background-color: #484FB7;
     padding: 20px;
     margin: 0;
+}
+
+footer div {
+    display: inline-block;
+    width: 50%;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
 }
 
 footer a {
