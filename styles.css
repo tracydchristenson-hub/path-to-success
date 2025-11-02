@@ -432,6 +432,8 @@ section#choose {
 
 section#choose ul {
     column-count: 2;
+    margin: auto;
+    text-align: center;
 }
 
 section#choose ul li {
@@ -440,10 +442,8 @@ section#choose ul li {
     font-weight: bold;
     font-size: 1.15em;
     text-align: center;
-    width: 40%;
-    margin: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    width: 50%;
+    padding: 20px;
 }
 
 section#choose ul li#teal {
