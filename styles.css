@@ -401,6 +401,7 @@ section#services div {
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
+    color: #000;
 }
 
 section#prices {
@@ -493,6 +494,7 @@ button {
     color: #000000;
     text-decoration: none;
     display: inline-block;
+    font-weight: bold;
 }
 
 footer {
