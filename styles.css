@@ -322,7 +322,7 @@ table {
 /* ROOT VARIABLES */
 
 :root {
-    --primary-color: #fff;
+    --primary-color: #000;
     --font-size: 14px;
     --font-family: Inter;
 }
@@ -401,7 +401,6 @@ section#services div {
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
-    color: #000;
 }
 
 section#prices {
