@@ -384,7 +384,7 @@ section#choose ul li {
     font-size: 1.15em;
     display: flex;
     align-items: center;
-    text-align: center;
+    justify-content: center;
     margin-bottom: 20px;
     padding: auto;
     height: 100px;
