@@ -430,6 +430,11 @@ section#choose {
     padding: 20px;
 }
 
+section#choose ul {
+    margin: 0 auto;
+    text-align: center;
+}
+
 section#choose ul li {
     border-radius: 20px;
     list-style-type: none;
